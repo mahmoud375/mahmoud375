@@ -9,7 +9,7 @@
 </div>
 
 <h1 align="center">Hi there! I’m Mahmoud ElGendy 🚀</h1>
-<h3 align="center">AI Engineer 🧠 | Deep Learning 🤖 | Machine Learning 🌩️ | Open Source 💡</h3>
+<h3 align="center">AI Engineer 🧠 | Deep Learning 🤖 | Machine Learning 🌩️ </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoud375&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
