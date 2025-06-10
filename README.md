@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <p align="center">
-  I'm <strong>Mahmoud</strong> — I've been making <strong>PUGs</strong> (yep, since 2023!) 🐶💻<br/>
+  I'm <strong>Mahmoud</strong> — I've been making <strong>PUGs</strong> (yep, since 2023!) 💻<br/>
   Always building, always learning!
 </p>
 
