@@ -1,48 +1,78 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
 <p align="center">
-  I'm <strong>Mahmoud</strong> — I've been making <strong>PUGs</strong> (yep, since 2023!) 💻<br/>
-  Always building, always learning!
+  <img src="assets/banner.gif" alt="banner" />
 </p>
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-elgendy2003" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
+<div align="center"> 
+  <a href="https://github.com/mahmoud375">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=mahmoud375&data=followers,repositories,stars,commits&theme=dark" />
   </a>
 </div>
 
+<h1 align="center">Hi there! I’m Mahmoud ElGendy 🚀</h1>
+<h3 align="center">AI Engineer 🧠 | Deep Learning 🤖 | Machine Learning 🌩️ | Open Source 💡</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoud375&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud375&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud375&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Machine Learning Engineer passionate about real-world impact
+- 🔬 Exploring the power of AI to solve complex problems
+- 🔭 Currently working on deep learning and NLP projects
+- 💬 Ask me anything about **AI, Deep Learning, ML, or Python**
+- 📫 Reach me at: **mahmoud.elgendy.2182003@gmail.com**
+- 🎯 Goal: Build intelligent systems that make life easier
+
+---
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-elgendy2003)
+<!-- أضف حساباتك الأخرى لو تحب -->
+<!-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/username) -->
+<!-- [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/username) -->
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/> <!-- Python -->
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40"/> <!-- Jupyter -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40"/> <!-- MySQL -->
+  <img src="https://cdn.simpleicons.org/linux/FCC624" height="40"/> <!-- Linux -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/> <!-- Git -->
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://readmestats.999857.xyz/api?username=mahmoud375&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud375&theme=dark" />
+</p>
+
+---
+
+### 🧩 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud375&column=-1&theme=onedark" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmoud375&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" />
+</p>
+
+---
+
+⭐️ Don’t forget to star my repos if you find something interesting!
