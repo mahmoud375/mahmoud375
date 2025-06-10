@@ -50,14 +50,15 @@
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://readmestats.999857.xyz/api?username=mahmoud375&show_icons=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud375&theme=dark" />
-</p>
+</div>
 
 ---
+
 
 ### 🧩 Trophies
 
