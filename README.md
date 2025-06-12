@@ -59,14 +59,6 @@
 ---
 
 
-### 🧩 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoud375&column=-1&theme=onedark" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
