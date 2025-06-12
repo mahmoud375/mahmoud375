@@ -46,12 +46,11 @@
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/> <!-- Git -->
 </p>
 
-
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
   <img src="https://readmestats.999857.xyz/api?username=mahmoud375&show_icons=true&theme=dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud375&theme=dark" />
 </div>
