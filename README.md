@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi there! I’m Mahmoud ElGendy 🚀</h1>
+<h1 align="center">Hi there! I’m Mahmoud ElGendy </h1>
 <h3 align="center">AI Engineer 🧠 | Deep Learning 🤖 | Machine Learning 🌩️ </h3>
 
 <p align="center">
